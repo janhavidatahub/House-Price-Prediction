@@ -1,0 +1,11 @@
+# Python dependencies for the HousePriceBot ML service
+# Install with:  pip install -r requirements.txt
+
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+matplotlib==3.9.0
+joblib==1.4.2
+pydantic==2.7.1
